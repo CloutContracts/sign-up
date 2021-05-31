@@ -1,2 +1,3 @@
-# cloutcontracts.github.io
-The landing page for CloutContracts
+# Waitlist
+
+The early sign-up page for CloutContracts
